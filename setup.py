@@ -68,7 +68,7 @@ setuptools.setup(
                     'tensorflow_probability==0.16.0',
                     'protobuf>=3.20,<4',
                     'onnx_tf==1.10.0',
-                    'onnx==1.14.1',
+                    'onnx==1.13.0',
                     'pronouncing>=0.2.0,<1',
                     'datasets>=2.14.4,<3',
                     'deep-phonemizer==0.0.19'
